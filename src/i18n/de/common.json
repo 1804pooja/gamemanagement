@@ -1,0 +1,17 @@
+{
+    "welcome": {
+        "title": "Willkommen bei {{framework}}"
+    },
+    "Heading": "Kampagne verwalten",
+    "Navigation": {
+        "Live": "Wohnen",
+        "Upcoming": "Bevorstehende",
+        "Past": "Vergangenheit"
+    },
+    "TableHeader":{
+        "CreatedOn":"Erstellt am",
+        "Campaign":"Kampagne",
+        "View":"Aussicht",
+        "Action":"Aktion"
+    }
+}

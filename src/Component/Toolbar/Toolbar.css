@@ -1,0 +1,32 @@
+.toolbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #4e4e89;
+    height: 5.9rem;
+    font-size: 1.6rem;
+    padding-bottom: 1rem;
+    
+}
+.toolbar__logo{
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+.toolbar__navigation{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 1.5rem;
+}
+.toolbar__logo a{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2rem;
+    padding: 0 1rem;
+}
+.toolbar__logo img {
+    width: 5rem;
+    height: auto;
+}

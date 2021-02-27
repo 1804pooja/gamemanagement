@@ -1,0 +1,17 @@
+{
+    "welcome": {
+        "title": "Welcome to {{framework}}"
+    },
+    "Heading": "Manage Campaign",
+    "Navigation": {
+        "Live": "Live",
+        "Upcoming": "Upcoming",
+        "Past": "Past"
+    },
+    "TableHeader":{
+        "CreatedOn":"Created On",
+        "Campaign":"Campaign",
+        "View":"View",
+        "Action":"Action"
+    }
+}

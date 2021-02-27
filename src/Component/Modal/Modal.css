@@ -1,0 +1,52 @@
+.main{
+    position: fixed;
+    z-index: 500;
+    background-color: white;
+    width: 30%;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px black;
+    padding: 1.6rem;
+    left: 30%;
+    top: 30%;
+    box-sizing: border-box;
+    transition: all 0.3s ease-out;
+    border-radius: .5rem;
+}
+.main-content{
+    margin : .2rem 1rem;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: .3rem;
+    padding: .2rem;
+}
+.modal-image{
+    display: flex;
+
+}
+.modal-img{
+    width: 10rem;
+    height: 7rem;
+    border-radius: .5rem;
+}
+.btn-close{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    display: block;
+    margin-left: 1rem;
+}
+.sub{
+    font-size: 1.2rem;
+}
+.btn-cancel{
+    padding: .5rem;
+    border-radius: .5rem;
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: #4e4e89;
+
+}

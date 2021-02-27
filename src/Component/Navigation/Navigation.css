@@ -1,0 +1,28 @@
+.topnav {
+  overflow: hidden;
+}
+.topnav button.active {
+  border-bottom: 3px solid #4e4e89;
+}
+.topnav button{
+    border: none;
+    outline: none;
+    background-color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+}
+.topnav > button{
+    border: none;
+    outline: none;
+    color: #777;
+}
+.topnav button:hover {
+  border-bottom: 3px solid  #4e4e89;
+}
+
+.topnav button.active {
+  border-bottom: 3px solid #4e4e89;
+}

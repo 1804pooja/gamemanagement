@@ -1,0 +1,12 @@
+.main-content {
+  font-size: calc(10px + 2vmin);
+}
+.btn{
+  border: none;
+  outline: none;
+  padding: 1rem;
+  margin-right: 5rem;
+  background-color: transparent;
+  text-transform: capitalize;
+  border-radius: .5rem;
+}
